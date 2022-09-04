@@ -1,0 +1,16 @@
+{
+  "name": "@beachball/package4",
+  "version": "0.0.1",
+  "author": "Masa",
+  "main": "dist/src/index.js",
+  "types": "dist/src/index.d.ts",
+  "files": [
+    "dist/",
+    "CHANGELOG.md",
+    "README.md",
+    "package.json"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.fury.io/masa/"
+  }
+}

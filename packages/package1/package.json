@@ -1,0 +1,18 @@
+{
+  "name": "@beachball/package1",
+  "private": true,
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": "Masa",
+  "main": "dist/src/index.js",
+  "types": "dist/src/index.d.ts",
+  "files": [
+    "dist/",
+    "CHANGELOG.md",
+    "README.md",
+    "package.json"
+  ],
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
