@@ -1,0 +1,20 @@
+{
+  "name": "@beachball/package4",
+  "entries": [
+    {
+      "date": "Sun, 04 Sep 2022 21:55:10 GMT",
+      "tag": "@beachball/package4_v0.0.2",
+      "version": "0.0.2",
+      "comments": {
+        "patch": [
+          {
+            "author": "matthieu.salettes@mirakl.com",
+            "package": "@beachball/package4",
+            "commit": "a3a177d4cef168eabf46a49a9e8c18387abb9537",
+            "comment": "create a new function patched"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,4 +1,16 @@
-# @beachball/package3
+# Change Log - @beachball/package3
+
+This log was last generated on Sun, 04 Sep 2022 21:55:10 GMT and should not be manually modified.
+
+<!-- Start content -->
+
+## 0.0.2
+
+Sun, 04 Sep 2022 21:55:10 GMT
+
+### Patches
+
+- Bump @beachball/package2 to v0.1.0
 
 ## 1.2.0
 

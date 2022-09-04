@@ -1,4 +1,16 @@
-# @beachball/package4
+# Change Log - @beachball/package4
+
+This log was last generated on Sun, 04 Sep 2022 21:55:10 GMT and should not be manually modified.
+
+<!-- Start content -->
+
+## 0.0.2
+
+Sun, 04 Sep 2022 21:55:10 GMT
+
+### Patches
+
+- create a new function patched (matthieu.salettes@mirakl.com)
 
 ## 1.0.0
 

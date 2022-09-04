@@ -1,4 +1,16 @@
-# @beachball/package2
+# Change Log - @beachball/package2
+
+This log was last generated on Sun, 04 Sep 2022 21:55:10 GMT and should not be manually modified.
+
+<!-- Start content -->
+
+## 0.1.0
+
+Sun, 04 Sep 2022 21:55:10 GMT
+
+### Minor changes
+
+- new function package2a (matthieu.salettes@mirakl.com)
 
 ## 1.2.0
 
