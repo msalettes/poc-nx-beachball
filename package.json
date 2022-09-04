@@ -10,7 +10,7 @@
     "release": "yarn nx run-many --target=lint --all",
     "change": "beachball change",
     "check": "beachball check",
-    "beachball:publish": "beachball publish"
+    "beachball:publish": "beachball publish -n $Du3CPz7SsRom1Mz8ebSR https://npm.fury.io/masa/"
   },
   "private": true,
   "dependencies": {},
