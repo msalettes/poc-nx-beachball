@@ -1,0 +1,7 @@
+{
+  "type": "minor",
+  "comment": "new function package2a",
+  "packageName": "@beachball/package2",
+  "email": "matthieu.salettes@mirakl.com",
+  "dependentChangeType": "patch"
+}
