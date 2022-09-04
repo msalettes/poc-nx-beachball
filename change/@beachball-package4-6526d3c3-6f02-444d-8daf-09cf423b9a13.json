@@ -1,0 +1,7 @@
+{
+  "type": "patch",
+  "comment": "create a new function patched",
+  "packageName": "@beachball/package4",
+  "email": "matthieu.salettes@mirakl.com",
+  "dependentChangeType": "patch"
+}
