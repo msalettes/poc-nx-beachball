@@ -7,7 +7,10 @@
     "packages/**"
   ],
   "scripts": {
-    "release": "yarn nx run-many --target=lint --all"
+    "release": "yarn nx run-many --target=lint --all",
+    "change": "beachball change",
+    "check": "beachball check",
+    "beachball:publish": "beachball publish"
   },
   "private": true,
   "dependencies": {},
